@@ -71,7 +71,7 @@ def form():
                      Title="Pick a text model", ShowFilterBar="True"),
                 comp("Player", "Player1", 6),
                 comp("Notifier", "Notifier1", 6),
-                comp(PKG + ".Pollinations", "Pollinations1", 1,
+                comp("Pollinations", "Pollinations1", 1,  # App Inventor stores the simple type name
                      SystemPrompt="Answer in two short sentences."),
             ],
         },
