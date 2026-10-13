@@ -14,6 +14,12 @@ device flow. No API key ships inside your app, and your account is never charged
 - **Sample project:** [`PollinationsDemo.aia`](sample/PollinationsDemo.aia) (the extension is
   already inside it: Projects > Import project (.aia))
 
+![The sample project open in the MIT App Inventor designer](docs/designer.png)
+
+*The sample project imported into [code2.appinventor.mit.edu](https://code2.appinventor.mit.edu):
+designer with the Pollinations component; its Blocks tab loads all 20 event handlers with no
+warnings.*
+
 ## What it does
 
 | You want | Blocks | Answer arrives in |
